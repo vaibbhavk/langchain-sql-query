@@ -1,0 +1,4 @@
+mysqlclient
+langchain 
+openai
+python-dotenv
