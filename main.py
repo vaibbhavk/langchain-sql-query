@@ -1,5 +1,5 @@
 from langchain import OpenAI, SQLDatabase
-from langchain.chains import SQLDatabaseSequentialChain, SQLDatabaseChain
+from langchain.chains import SQLDatabaseChain
 from dotenv import load_dotenv
 import os
 
